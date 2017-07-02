@@ -1,0 +1,15 @@
+age income student credit_rating independent buys_computer
+<=30 high no fair yes yes	
+<=30 high no excellent no maybe
+31...40 high no fair no yes
+>40 medium no fair yes yes
+>40 low yes fair no yes
+>40 low yes excellent	yes no
+31...40 low yes excellent yes yes
+<=30 medium no fair no maybe
+<=30 low yes fair yes yes
+>40 medium yes fair no yes
+<=30 medium yes excellent yes maybe
+31...40 medium no excellent no yes
+31...40 high yes fair no yes
+>40 medium no excellent yes no
